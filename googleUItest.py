@@ -1,3 +1,6 @@
+#THIS CODE IS THE CODE WE USED WITHOUT THE API KEY
+
+
 
 from mistralai.client import MistralClient
 from mistralai.models.chat_completion import ChatMessage
