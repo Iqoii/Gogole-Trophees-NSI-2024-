@@ -1,5 +1,5 @@
 # Gogole
-Projet I mainly coded (with some friends' help) that won us a price in the Trophées NSI 2024!
+Projet I mainly coded (with some friends' help) that won us a prize in the Trophées NSI 2024!
 
 
 Gogole est une version parodique de Google, il se présente donc sous la forme d’un
